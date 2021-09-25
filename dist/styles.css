@@ -1,0 +1,43 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 97%;
+    background-color: rgb(34, 34, 34);
+    color: white;
+}
+
+body {
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    align-items: center;
+    justify-content: center;
+}
+/* 
+.title {
+    width: 100%;
+    text-align: center;
+} */
+
+#output {
+    width: 100%;
+    font-size: xx-large;
+    text-align: center;
+}
+
+#input {
+    width: 100%;
+
+    /* border: solid 1px black; */
+}
+
+.input-element {
+    width: 50%;
+    margin-left: 25%;
+    /* background-color: rgba(0, 0, 0, 0); */
+}
+
+p {
+    text-align: center;
+}
